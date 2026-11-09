@@ -5,7 +5,7 @@
 </p>
 
 [PYTHON__BADGE]: https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white
-[DJANGO_REST__BADGE]: https://img.shields.io/badge/Django_REST-ff1744?style=for-the-badge&logo=django&logoColor=white
+[DJANGO__BADGE]: https://img.shields.io/badge/Django_REST-ff1744?style=for-the-badge&logo=django&logoColor=white
 [SQLITE__BADGE]: https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 
 <p align="center">
