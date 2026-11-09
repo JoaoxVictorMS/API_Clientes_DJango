@@ -4,9 +4,9 @@
   API RESTful desenvolvida em Django e Django REST Framework para gerenciamento de clientes, com validação de documentos, filtros, ordenação e paginação.
 </p>
 
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[HTML__BADGE]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-[JQUERY__BADGE]: https://img.shields.io/badge/Django_REST-ff1744?style=for-the-badge&logo=django&logoColor=white
+[PYTHON__BADGE]: https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white
+[DJANGO_REST__BADGE]: https://img.shields.io/badge/Django_REST-ff1744?style=for-the-badge&logo=django&logoColor=white
+[SQLITE__BADGE]: https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 
 <p align="center">
   • <a href="#technologies">Tecnologias</a> •
@@ -20,9 +20,9 @@
 
 <div>
 
-![Python][JAVASCRIPT__BADGE]
-![Django][HTML__BADGE]
-![Django REST Framework][JQUERY__BADGE]
+![Python][PYTHON__BADGE]
+![Django REST Framework][DJANGO__BADGE]
+![SQLite][SQLITE__BADGE]
 
 </div>
 
